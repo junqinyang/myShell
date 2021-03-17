@@ -1,0 +1,2 @@
+# myShell
+personal shell script
